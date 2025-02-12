@@ -1,4 +1,4 @@
-#「The Best Watch」
+# 「The Best Watch」
 ![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview.png)  
 健生ゼネラルカンパニー工作員に捧ぐ。（Sorry! Japanese Only.）  
 「毛利泰士とザ・ベスト」の“非公式”ファンメイドコンテンツです。  
