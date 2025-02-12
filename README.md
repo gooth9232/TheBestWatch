@@ -15,7 +15,7 @@
 ・次行のリンクをクリックしてアプリをインストール  
 　https://github.com/gooth9232/TheBestWatch/releases/download/1.0.0/the_best_watch.apk  
   
-③ウィジェットの配置
+③ウィジェットの配置  
 ・ホーム画面の何もない場所を長押し→[ウィジェット]を選択  
 ・表示された一覧から「The Best Watch」を探す  
 ・表示された「The Best Watch」のウィジェット画面を長押しし、お好きな空いた場所に持っていく。  
