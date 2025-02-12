@@ -13,7 +13,7 @@
   
 ②apkファイルの実行
 ・次行のリンクをクリックしてアプリをインストール  
-　https://github.com/gooth9232/TheBestWatch  
+　https://github.com/gooth9232/TheBestWatch/blob/master/the_best_watch.apk  
 
 ・ウィジェット画面にタッチすることで更新（ワチャワチャ）しますのでお楽しみください。  
   
