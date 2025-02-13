@@ -12,8 +12,16 @@
 　※インストール後に必ず元の状態に戻してください。  
   
 ②apkファイルの実行  
-・次行のリンクをクリックしてアプリをインストール  
-　https://github.com/gooth9232/TheBestWatch/releases/download/1.0.0/the_best_watch.apk  
+・リンクをクリックしてアプリをインストール  
+　※すでにインストールされたThe Best Watchがある場合は、先にウィジェットの削除／アンインストールを行ってください。  
+
+[ワイド版]  
+![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview.png)  
+https://github.com/gooth9232/TheBestWatch/releases/download/1.0.1/TheBestWatch_101w.apk
+  
+[ナロー版]　ワイド版で見切れる場合などはこちら。
+![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview_nallow.png)  
+https://github.com/gooth9232/TheBestWatch/releases/download/1.0.1/TheBestWatch_101n.apk
   
 ③ウィジェットの配置  
 ・ホーム画面の何もない場所を長押し→[ウィジェット]を選択  
