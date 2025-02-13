@@ -19,7 +19,7 @@
 ![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview.png)  
 https://github.com/gooth9232/TheBestWatch/releases/download/1.0.1/TheBestWatch_101w.apk
   
-[ナロー版]　ワイド版で見切れる場合などはこちら。
+[ナロー版]　ワイド版で見切れる場合などはこちら。  
 ![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview_nallow.png)  
 https://github.com/gooth9232/TheBestWatch/releases/download/1.0.1/TheBestWatch_101n.apk
   
