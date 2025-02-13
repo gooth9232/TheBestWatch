@@ -14,14 +14,16 @@
 ②apkファイルの実行  
 ・リンクをクリックしてアプリをインストール  
 　※すでにインストールされたThe Best Watchがある場合は、先にウィジェットの削除／アンインストールを行ってください。  
-
+  
+  現在の最新版v1.0.2（長時間稼働時にタップ更新できなくなる不具合の修正）
+  
 [ワイド版]  
 ![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview.png)  
-https://github.com/gooth9232/TheBestWatch/releases/download/1.0.1/TheBestWatch_101w.apk
+https://github.com/gooth9232/TheBestWatch/releases/download/1.0.2/TheBestWatch_102w.apk
   
 [ナロー版]　ワイド版で見切れる場合などはこちら。  
 ![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview_nallow.png)  
-https://github.com/gooth9232/TheBestWatch/releases/download/1.0.1/TheBestWatch_101n.apk
+https://github.com/gooth9232/TheBestWatch/releases/download/1.0.2/TheBestWatch_102n.apk
   
 ③ウィジェットの配置  
 ・ホーム画面の何もない場所を長押し→[ウィジェット]を選択  
