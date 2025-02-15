@@ -14,7 +14,7 @@
 ②apkファイルの実行  
 ・リンクをクリックしてアプリをインストール  
 　※すでにインストールされたThe Best Watchがある場合は、先にウィジェットの削除／アンインストールを行ってください。  
-　※最新版v1.0.3（安定化対応）
+　※最新版v1.0.2（安定化対応）
   
 [ワイド版]  
 ![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview.png)  
