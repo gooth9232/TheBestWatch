@@ -13,27 +13,33 @@
   
 ②apkファイルの実行  
 ・リンクをクリックしてアプリをインストール  
-　※すでにインストールされたThe Best Watchがある場合は、先にウィジェットの削除／アンインストールを行ってください。  
-　※最新版v1.0.4（タップ精度向上・安定化対応）
+　※すでに旧版がインストールされている場合は、先にウィジェットの削除／アンインストールを行ってください。  
   
 [ワイド版]  
+機種によっては画像が見切れたり、ウィジェットリストに表示されないことがあります。その際はナロー版をお使いください。  
 ![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview.png)  
-https://github.com/gooth9232/TheBestWatch/releases/download/1.0.4/TheBestWatch_104w.apk
+https://github.com/gooth9232/TheBestWatch/releases/download/1.0.5/TheBestWatch_105w.apk
   
-[ナロー版]　ワイド版で「見切れる」「ウィジェットリストに表示されない」などの場合はこちら。  
+[ナロー版]  
+ワイド版で「見切れる」「ウィジェットリストに表示されない」などの場合はこちら。  
 ![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview_nallow.png)  
-https://github.com/gooth9232/TheBestWatch/releases/download/1.0.4/TheBestWatch_104n.apk
+https://github.com/gooth9232/TheBestWatch/releases/download/1.0.5/TheBestWatch_105n.apk
   
 ③ウィジェットの配置  
 ・ホーム画面の何もない場所を長押し→[ウィジェット]を選択  
 ・表示された一覧から「The Best Watch」を探す  
 ・表示された「The Best Watch」のウィジェット画面を長押しし、お好きな空いた場所に持っていく。  
-![Wedget](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_wedget.png)   
+![Wedget](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_wedget.png)  
   
-・ウィジェット画面にタッチすることで更新（ワチャワチャ）しますのでお楽しみください。  
-  
+・ウィジェット画面にタップすることで更新（ワチャワチャ）しますのでお楽しみください。  
+    
+#※最新v1.0.5の内容と注意事項  
+・長時間使用時にタップが反応しなくなる不具合の修正  
+・ウィジェット配置直後にタップが反応しないケースの自動修正機能追加
+※ウィジェット配置直後にタップに反応しない場合、次の時刻更新が自動で行われるまでそのままお待ちください（1分程度）。  
+　時刻更新が終了するのに伴って、タップ機能による画面更新が有効化されます。  
   
 ※注意事項  
 ・アプリ本体としての画面は存在しません。  
-・厳密に時刻同期していません。最大で１分弱の差異があります。気になるときはタッチして更新してください。  
+・厳密に時刻同期していません。最大で１分弱の差異があります。気になるときはタップにて画面更新してください。  
 ・本アプリのダウンロード・使用に関して生じたすべての事象について、責任は負いかねます。
