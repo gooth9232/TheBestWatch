@@ -18,12 +18,12 @@
 [ワイド版]  
 機種によっては画像が見切れたり、ウィジェットリストに表示されないことがあります。その際はナロー版をお使いください。  
 ![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview.png)  
-https://github.com/gooth9232/TheBestWatch/releases/download/1.0.5/TheBestWatch_105w.apk
+https://github.com/gooth9232/TheBestWatch/releases/download/1.0.6/TheBestWatch_106w.apk
   
 [ナロー版]  
 ワイド版で「見切れる」「ウィジェットリストに表示されない」などの場合はこちら。  
 ![WatchFace](https://github.com/gooth9232/TheBestWatch/blob/master/img/app_preview_nallow.png)  
-https://github.com/gooth9232/TheBestWatch/releases/download/1.0.5/TheBestWatch_105n.apk
+https://github.com/gooth9232/TheBestWatch/releases/download/1.0.6/TheBestWatch_106n.apk
   
 ③ウィジェットの配置  
 ・ホーム画面の何もない場所を長押し→[ウィジェット]を選択  
@@ -33,14 +33,13 @@ https://github.com/gooth9232/TheBestWatch/releases/download/1.0.5/TheBestWatch_1
   
 ・ウィジェット画面にタップすることで更新（ワチャワチャ）しますのでお楽しみください。  
     
-## ※最新v1.0.5の内容と注意事項  
+## ※最新v1.0.6の内容と注意事項  
 修正内容  
-・長時間使用時にタップが反応しなくなる不具合の修正  
-・ウィジェット配置直後にタップが反応しないケースの自動修正機能追加  
-※ウィジェット配置直後にタップに反応しない場合、次の時刻更新が自動で行われるまでそのままお待ちください（1分程度）。  
-　時刻更新が終了するのに伴って、タップ機能による画面更新が有効化されます。  
+・スリープからの復帰時/複数回タップ時にアニメーションが乱れることがある不具合の修正。  
   
 ※注意事項  
+・ウィジェット配置直後にタップに反応しない場合、次の時刻更新が自動で行われるまでそのままお待ちください（1分程度）。  
+　時刻更新が終了するのに伴って、タップ機能による画面更新が有効化されます。  
 ・アプリ本体としての画面は存在しません。  
 ・厳密に時刻同期していません。最大で１分弱の差異があります。気になるときはタップにて画面更新してください。  
 ・本アプリのダウンロード・使用に関して生じたすべての事象について、責任は負いかねます。
